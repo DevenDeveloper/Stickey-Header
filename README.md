@@ -1,8 +1,18 @@
-# Stickey-Header
+# About Stickey-Header
 Sticky Header RecyclerView
+Sticky Header recycler view provides headers which always show you on top. It inform to the user like which header's data you are showing.
 
-![Screenshot_2019-05-21-12-01-31](https://user-images.githubusercontent.com/50836835/58083696-20ccf980-7bd7-11e9-9475-837f01e82462.png)
+# Features
+  * Sticky header's provides as per name suggest, top of the secreen and its data just below the header.
+  * If we have multiple data then again it work same for new data.
+  * If we want to see the real time use case then we can say My orders, categories, contact list etc, where we can show the date on top and below we can set orders of that perticuler date.
+ 
+# Tools used
+  * Android Studio Electric Eel | 2022.1.1
 
-![Screenshot_2019-05-21-12-01-41](https://user-images.githubusercontent.com/50836835/58083951-989b2400-7bd7-11e9-81b4-099e4c667369.png)
+# Preview:
+![element](https://user-images.githubusercontent.com/50836835/224463099-b982d40d-ae7b-4830-adcd-6d3549dbc867.png)
 
-![Screenshot_2019-05-21-12-01-44](https://user-images.githubusercontent.com/50836835/58083975-a6e94000-7bd7-11e9-9b35-48b7b779710b.png)
+# Contact Me
+  * https://www.linkedin.com/in/devendra-udaywal
+  * https://github.com/DevenDeveloper
